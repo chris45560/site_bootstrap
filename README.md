@@ -1,2 +1,2 @@
 # site_bootstrap
-Mon premier site en utilisant Bootstrap
+Mon premier site utilisant Bootstrap
